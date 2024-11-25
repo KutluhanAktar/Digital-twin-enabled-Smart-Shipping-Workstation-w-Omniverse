@@ -5,7 +5,7 @@ Exploring the digital twin synthetic data generation and AI-oriented advancement
 
 Inspect the detailed project tutorial on Hackster:
 
-[Link will be updated soon]
+[https://www.hackster.io/kutluhan-aktar/digital-twin-enabled-smart-shipping-workstation-w-omniverse-049792](https://www.hackster.io/kutluhan-aktar/digital-twin-enabled-smart-shipping-workstation-w-omniverse-049792)
 
 At the pinnacle of industrial artificial intelligence and machine learning applications, a digital twin represents a virtual construction of real-world physical products, mechanisms, or mechanical procedures. Since the simulation of a real-world operation provides the flexibility of applying countless examination scenarios, even to the point of cycling arduous or dangerous tasks, without causing any tangible ramifications, digital twins hold immeasurable importance in building safe, cost-effective, efficient, and adaptive real-world industrial facilities.
 
